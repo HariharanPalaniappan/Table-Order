@@ -1,0 +1,15 @@
+.textbox-container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    max-width: 100%;
+    align-items: center;
+    margin: 10px 0;
+}
+.textbox-container label {
+    margin-bottom: 5px;
+}
+.textbox {
+    width: 80%;
+    height: 35px;
+}

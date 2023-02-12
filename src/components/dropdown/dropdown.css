@@ -1,0 +1,18 @@
+.dropdown-container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    max-width: 100%;
+    align-items: center;
+    margin: 10px 0;
+}
+.dropdown-container select {
+    width: 80%;
+    height: 35px;
+    border: 1px solid rgb(170 170 170);
+    text-align: center;
+}
+
+.dropdown-container select option {
+    text-align: center;
+}

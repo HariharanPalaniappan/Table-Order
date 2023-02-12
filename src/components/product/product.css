@@ -1,0 +1,9 @@
+.product-container {
+    display: flex;
+    align-items: self-start;
+    width: 100%;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px dashed #787878;
+    box-sizing: border-box;
+}

@@ -1,0 +1,19 @@
+.table-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.table-box{
+    width: 50%;
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px dashed;
+    border-bottom: 1px dashed;
+    color: #4a4848;
+    box-sizing: border-box;
+}
+.table-box:hover {
+    box-shadow: 0 1rem 3rem rgb(0 0 0 / 18%);
+}
